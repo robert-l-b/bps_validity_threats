@@ -67,10 +67,6 @@ It contains:
 - **`input_data`**: Preprocessed logs split into training and test datasets.
 - **`simulated_data`**: Simulated event logs from different simulation scenarios.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). 
-
 ## Acknowledgments
 
 This repository is part of ongoing research on Business Process Simulation (BPS) and is based on empirical examples from publicly available event logs.
