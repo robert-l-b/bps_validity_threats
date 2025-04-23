@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains data and scripts associated with the paper *"Threats to Internal Validity in Business Process Simulation (BPS) Evaluations."* The research explores how systematic errors introduced during various stages of Business Process Simulation (BPS) can distort evaluation results and lead to incorrect conclusions about the quality of a simulation model.
+This repository contains data and scripts associated with the paper *"Glitches in the Matrix: Threats to the Validity of Data‑driven Business Process Simulation."* The research explores how systematic errors introduced during various stages of Business Process Simulation (BPS) can distort evaluation results and lead to incorrect conclusions about the quality of a simulation model.
 
 ## Abstract
 
@@ -44,7 +44,7 @@ This repository provides the necessary files and scripts to replicate the empiri
 
 1. Navigate to the `notebooks` directory.
 2. Run the provided Jupyter notebooks to replicate the evaluation and visualize the threats.
-3. Use the adapted version of AgentSimulator to replicate the simulations: [AgentSimulator_WuCd](https://github.com/robert-l-b/AgentSimulator_WuCd)
+3. Use the adapted version of AgentSimulator that is able to conduct a pre-warm up and a post-cool down to replicate the simulations: [AgentSimulator_WuCd](https://github.com/robert-l-b/AgentSimulator_WuCd)
 
 ## Notebooks
 
